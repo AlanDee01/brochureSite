@@ -1,2 +1,2 @@
 # brochureSite
-Attempting to put together an html/css site
+Fictional brochure site for a granite servicing company.
